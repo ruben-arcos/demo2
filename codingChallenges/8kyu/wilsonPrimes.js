@@ -17,4 +17,3 @@ function amIWilson(p) {
 console.log(amIWilson(5));
 console.log(amIWilson(9));
 console.log(amIWilson(6));
-console.log(amIWilson(563));
